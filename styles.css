@@ -1,0 +1,14 @@
+.orangeBox{background-color: orange;
+width: 100%;
+height: 200px;
+margin: 10px;
+color: white;
+font-size: 80px;
+display: inline-block;
+text-align: center;
+padding: 20px;
+
+}
+
+.parDecoration {font-size: 35px; color: blue;
+font-weight: bold;}
